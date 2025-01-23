@@ -1,0 +1,36 @@
+body{
+    margin:0;
+    padding: 0;
+    background-image: url('https://ik.imagekit.io/sk751508/todolistbg.webp?updatedAt=1737647929636');
+    background-repeat: no-repeat;
+    color: white;
+    font-family: "Roboto";
+}
+h1{
+    margin-left: 80px;
+    font-size:50px;
+}
+.one{
+    margin-left: 10px;
+}
+h4{
+    font-weight: bold;
+}
+button{
+    margin-left: 140px;
+    background-color: orange;
+    color: white;
+    font-weight: bold;
+    font-size: large;
+    width: 75px;
+    height: 38px;
+    border-color: gray;
+}
+.two{
+    font-size: small;
+    text-decoration: underline;
+    margin-left: 110px;
+}
+span{
+    margin-left: 158px;
+}
